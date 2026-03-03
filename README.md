@@ -18,7 +18,7 @@ just like a real SOC analyst would do.
 
  Lab Architecture
 
-```
+
 +-------------------+        Attack Traffic        +----------------------+
 |   Kali Linux      |  --------------------------> |    Windows Victim    |
 |   (Attacker)      |                               |  (Sysmon Installed) |
@@ -30,7 +30,7 @@ just like a real SOC analyst would do.
                                                       |     Splunk SIEM  |
                                                       | (Log Analysis)   |
                                                       +------------------+
-```
+
 
 
 
